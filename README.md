@@ -1,1 +1,1 @@
-# cosmic-cellar
+# COSMIC Cellar
