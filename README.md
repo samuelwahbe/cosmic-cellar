@@ -275,5 +275,6 @@ nll1zM+3f4EAAAAQZGVCR0Y0OTYwNkVBMjVEQTE3NDFKvVMoAAAAAElFTkSuQmCC
   </g>
 </svg>
 IC Cellar.svg…]()
+
 # COSMIC Cellar
 A COSMIC application for managing and launching Windows applications with Wine
