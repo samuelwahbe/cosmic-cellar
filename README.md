@@ -1,7 +1,7 @@
-<img width="400" height="400" alt="COSMIC Cellar" src="https://github.com/user-attachments/assets/6067b546-29e2-4e17-a067-05ef55bf8ec9"
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
   </g>
 </svg>
-IC Cellar.svg…]()
+<img width="400" height="400" alt="COSMIC Cellar" src="https://github.com/user-attachments/assets/38cc54a5-0adf-4047-ac30-7237dc6822ed" />
 
 # COSMIC Cellar
 A COSMIC application for managing and launching Windows applications with Wine
